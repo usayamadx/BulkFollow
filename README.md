@@ -1,6 +1,4 @@
 # BulkFollowgan
-Who is No.1? Yes, Bulk Followgan. ICHIBAN!
-Oh, this is the Bulk twitter follow tool.
 
 ####### DEVELOPING NOW #######
 
